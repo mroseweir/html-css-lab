@@ -32,7 +32,7 @@ body {
 
 .h5 {
     border-radius: 50%;
-    background-color: blue;
+    background-color: rgb(160, 220, 255);
     height: 195px;
     width: 195px;
     position: absolute;
@@ -63,7 +63,7 @@ body {
     width: 50%;
     height: 225px;
     border: solid rgb(80, 80, 80) 0.1px;
-    box-shadow: 1px 1px 1px rgb(80, 80, 80);
+    box-shadow: 2px 2px 3px rgb(145, 145, 145);
     margin: 25px auto;
     padding: 25px;
     position: relative;
